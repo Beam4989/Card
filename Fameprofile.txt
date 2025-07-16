@@ -1,0 +1,6 @@
+  {
+    "name": "Tichanon Champa",
+    "title": "Student in Digital Science and Technology (Special Program)",
+    "phone": "+66 98 246 1795",
+    "email": "Tichanon@example.com"
+  }
